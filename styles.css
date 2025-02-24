@@ -1,9 +1,35 @@
 
 *{
     border: 1px red dotted;
+    display: flexbox
 }
 
 #headercontainer {
+    display: flex;
+    justify-content: end;
+}
+
+#title-item {
+    text-align: center;
+    font-size: 50px;
+}
+
+#search-field {
+    display: flex;
     flex: auto;
-    text-align: right;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    
+ 
+} 
+
+/*.form-field {
+    
+}*/
+
+.input-field {
+    padding: 100px;
+    height: 50px;
+    width: 200px;
 }
