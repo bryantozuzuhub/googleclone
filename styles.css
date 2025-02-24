@@ -21,7 +21,6 @@
     align-items: center;
     text-align: center;
     
- 
 } 
 
 /*.form-field {
@@ -29,7 +28,6 @@
 }*/
 
 .input-field {
-    padding: 100px;
-    height: 50px;
-    width: 200px;
+    width: 600px;
+    padding: 15px;
 }
