@@ -31,3 +31,10 @@
     width: 600px;
     padding: 15px;
 }
+
+#voiceSearchButton,
+#lenSearchButton {
+    padding: 15px;
+    align-items: center;
+}
+
