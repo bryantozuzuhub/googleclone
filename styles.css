@@ -38,3 +38,8 @@
     align-items: center;
 }
 
+#ShortcutIcon {
+    display: flex;
+    margin-left: 600px;
+    padding: 10px;
+}
